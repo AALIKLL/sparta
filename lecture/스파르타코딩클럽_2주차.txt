@@ -1,0 +1,14 @@
+CSS = javascript
+Bootscrb = jQuery
+
+class, id 값을 잘 부여해야 선택자를 잘 선정할 수 있음.
+
+myemail.split('@')[1].split('.')
+
+google -> 사용하고자하는 라이브러리와 알고자하는 함수를 검색한다.
+
+
+개발자 창업자 -> 기보 -> 벤처기업 (손쉬울 수 있다.)
+
+
+attr('src',url)
